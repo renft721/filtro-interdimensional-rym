@@ -36,4 +36,10 @@ Sigue estos pasos para ejecutar el proyecto en local:
 - **Lenguaje de Programación:** HTML, CSS, JavaScript
 - **API:** [API de Rick y Morty](https://rickandmortyapi.com/documentation)
 
-¡Explora el multiverso de Rick & Morty y disfruta!
+## DEMO
+![image](https://github.com/renft721/filtro-interdimensional-rym/assets/127346653/07a67d85-b99a-41ca-b4cb-ee6ce777d37f)
+
+Dispositivos móviles:
+![Imagen de WhatsApp 2023-11-05 a las 19 16 39_d864ccea](https://github.com/renft721/filtro-interdimensional-rym/assets/127346653/5bb325af-15eb-4898-b1b5-0012f012d305)
+
+##¡Explora el multiverso de Rick & Morty tu mismo! [Entrar en el multiverso](https://filtro-interdimensional.netlify.app/)
