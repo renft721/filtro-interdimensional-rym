@@ -7,12 +7,12 @@
 
 ## Instrucciones de Ejecución
 
-Sigue estos pasos para ejecutar el proyecto en tu computadora:
+Sigue estos pasos para ejecutar el proyecto en local:
 
 1. **Descargar el Repositorio:**
    - Ve a la página principal del repositorio en GitHub: [Enlace al Repositorio](https://github.com/renft721/filtro-interdimensional-rym.git)
    - Haz clic en el botón "Code" (o "Código") y selecciona "Download ZIP."
-   - Guarda el archivo ZIP en tu computadora.
+   - Guarda el archivo ZIP en tu pc.
 
 2. **Descomprimir el Repositorio:**
    - Descomprime el archivo ZIP que descargaste en el paso anterior.
