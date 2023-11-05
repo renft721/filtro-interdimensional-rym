@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rick y Morty</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Título de la página -->
+    <h1>Filtro interdimensional de</h1>
+    <div id="banner"><img src="https://i.ibb.co/WV80kkb/rym-bckground.png"></div>
+    <!-- Contenedor de filtros -->
+    <div id="filters">
+        <!-- Campo de entrada para filtrar por nombre -->
+        <input type="text" id="name-filter" placeholder="Explora el multiverso">
+        
+        <!-- Menú desplegable para filtrar por estado -->
+        <select id="status-filter">
+            <option value="">Filtrar por estado</option>
+            <option value="alive">Vivo</option>
+            <option value="dead">Muerto</option>
+            <option value="unknown">Desconocido</option>
+        </select>
+    </div>
+
+    <!-- Contenedor principal de personajes -->
+    <div class="container">
+        <div id="characters">
+            <!-- Los personajes se generarán aquí -->
+        </div>
+    </div>
+    <!-- Incluir el archivo JavaScript -->
+    <script src="script.js"></script>
+</body>
+</html>

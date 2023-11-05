@@ -1,0 +1,70 @@
+/* Establecer fuente predeterminada y estilo general */
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+/* Estilos para el fondo de la página */
+body {
+    background-color: #0e393f;
+}
+
+/* Estilos para el título y los filtros */
+h1, #filters {
+    text-align: center;
+}
+
+/* Estilos para el campo de entrada y el menú desplegable */
+#filters input, #filters #status-filter {
+    padding: 8px 16px;
+    margin: 10px;
+    border: 0;
+    font-size: 18px;
+    border: 3px solid #507333;
+    border-radius: 50px;
+    background-color: #407772;
+    
+}
+
+/* Estilos para el banner */
+#banner {
+    text-align: center; 
+}
+
+#banner img {
+    max-width: 100%; /* Establecer un tamaño máximo para la imagen */
+    height: auto; /* Mantener la proporción de aspecto original */
+}
+
+
+/* Estilos para el contenedor principal de personajes */
+.container {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+/* Estilos para la lista de personajes */
+#characters {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/* Estilos para las tarjetas de personajes */
+.character-card {
+    width: 200px;
+    margin: 5px;
+    padding: 10px;
+    background-color: #0d7c85;
+    border-radius: 8px;
+    border: 3px solid #5d8140;
+    text-align: center;
+}
+
+/* Estilos para las imágenes de personajes */
+.character-card img {
+    width: 100%;
+    border-radius: 50%;
+}
